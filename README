@@ -1,0 +1,8 @@
+This is the code of the fault injection tool developped in the context of a master thesis submitted for the Master’s degree
+in computer science (120 credits) at the Université Catholique de Louvain (UCL) by Alex Vermeylen. 
+
+Note that, due to confidentiality, a part of the source code related to the cunit support was not provided on this public repository. Therefore, the cunit option should not be used.
+
+To run the tool, configure the injection-strategies.properties file in the hardening forlder and run the run.py file with the correct arguments.
+
+The documentation of the tool, which contains the informations necessary to run the tool correctly is provided in the doc.pdf file.
